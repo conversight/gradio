@@ -1,5 +1,12 @@
 # @gradio/uploadbutton
 
+## 0.0.3
+
+### Patch Changes
+
+- Updated dependencies [[`730f0c1d`](https://github.com/gradio-app/gradio/commit/730f0c1d54792eb11359e40c9f2326e8a6e39203)]:
+  - @gradio/client@0.2.1
+
 ## 0.0.2
 
 ### Patch Changes

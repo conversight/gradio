@@ -1,5 +1,12 @@
 # @gradio/textbox
 
+## 0.1.1
+
+### Patch Changes
+
+- Updated dependencies [[`fbdad78a`](https://github.com/gradio-app/gradio/commit/fbdad78af4c47454cbb570f88cc14bf4479bbceb)]:
+  - @gradio/statustracker@0.0.2
+
 ## 0.1.0
 
 ### Features
